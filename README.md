@@ -20,7 +20,7 @@ Password strength is determined with this chart:
 
 This program also uses lists of the most common passwords, phrases and first names to generate common patterns of an inputted password. Additionally, the MD5 hashing functionality can take in a list of words and use it against a list of hashes to see if any words/passwords can be "Cracked" using a dictionary attack.
 ### Usage:
-All input files are in .txt format, simple run the program and follow the prompts.
+All input files are in .txt format, simple run the program(Password_Analysis.py) and follow the prompts.
 
 This program uses the lists of the most common passwords, phrases and first names to generate a 
 list of common patterns that can be seen within your inputted password.
